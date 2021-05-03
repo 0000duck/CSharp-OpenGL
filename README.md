@@ -27,4 +27,4 @@
 
 ## Результат
 
-![На дороге](./Materials/На дороге.jpg)
+<img src="/Materials/road.jpg" alt="road" width="500"/>
