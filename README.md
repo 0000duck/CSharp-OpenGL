@@ -27,4 +27,5 @@
 
 ## Результат
 
-![road](./Materials/road.jpg)
+<img src="/Materials/road.jpg" alt="road" width="200"/>
+//![road](./Materials/road.jpg)
