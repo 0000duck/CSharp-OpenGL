@@ -27,4 +27,6 @@
 
 ## Результат
 
+<img src="/Materials/empty.jpg" alt="road" width="500"/>
+
 <img src="/Materials/road.jpg" alt="road" width="500"/>
