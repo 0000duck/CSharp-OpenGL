@@ -27,4 +27,4 @@
 
 ## Результат
 
-![На дороге](./Materials/На дороге.jpg)
+![road](./Materials/road.jpg)
