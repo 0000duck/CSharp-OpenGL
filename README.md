@@ -1,5 +1,8 @@
 # Визуализация данных с датчиков робота <br/> С# + OpenGL (SharpGL)<br/><br/>Robot sensor data visualisation using <br/>C# and OpenGL (SharpGL)
 
+*Команда*
+1. Недов Андрей
+
 ## Задание
 
 Разработать систему, отображающую параметры работы робота с
