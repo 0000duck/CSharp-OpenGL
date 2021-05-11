@@ -32,11 +32,11 @@
 
 Робот представлен кубом в 3D-пространстве, расстояние определяемое сонарами отображается в виде небольших плоскостей побокам робота, на передней плоскости представлено изображение с камеры робота.
 
+[Видеоотчёт/Video report](https://drive.google.com/file/d/14-oeuvkcaDUElnfL0wwpvHad7pgOKYtQ/view?usp=sharing)
+
 <img src="/Materials/empty.jpg" alt="road" width="500"/>
 
 Визуализация сенсорики автомобиля в потоке транспорта.
 
 <img src="/Materials/road.jpg" alt="road" width="500"/>
-
-[Видеоотчёт/Video report](https://drive.google.com/file/d/14-oeuvkcaDUElnfL0wwpvHad7pgOKYtQ/view?usp=sharing)
 
